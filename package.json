@@ -1,0 +1,27 @@
+{
+  "name": "postcss-overflow-wrap",
+  "version": "0.0.0",
+  "description": "PostCSS plugin to fallback overflow-wrap property",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/postcss-overflow-wrap/git"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css",
+    "fallback"
+  ],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "postcss": "^5.0.14"
+  }
+}
