@@ -1,6 +1,6 @@
 {
   "name": "postcss-overflow-wrap",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "PostCSS plugin to fallback overflow-wrap property",
   "main": "index.js",
   "scripts": {
